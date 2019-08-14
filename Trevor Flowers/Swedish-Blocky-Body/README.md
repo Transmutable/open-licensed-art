@@ -4,7 +4,7 @@
 
 In the early 90s the Distributed Interactive Virtual Environment (DIVE) group at the Swedish Institute of Computer Science created a networked VR system with digital bodies and spaces. The paper "A Spatial Model of Interaction in Large Virtual Environments" (Benford et al) includes several images of DIVE's geometrically simple digital bodies.
 
-Trevor used Blender to create and publish art files for bodies similar DIVE's but for use in [Mozilla Hubs](https://hubs.mozilla.com/).
+Trevor used Blender to create and publish art files for bodies similar DIVE's but for use in [Mozilla Hubs](https://hubs.mozilla.com/). Here's a [video of Trevor dancing while wearing the body](https://twitter.com/TrevorFSmith/status/1146889064877920256), for some unknown reason.
 
 To use the green body (shown above) in Hubs, browse to a Hubs room and choose "Set Name and Avatar" -> "Browse Avatars" -> click the "Avatar GLB" link and then paste in this URL:
 
