@@ -10,4 +10,6 @@ To use the green body (shown above) in Hubs, browse to a Hubs room and choose "S
 
 	https://github.com/Transmutable/open-licensed-art/blob/master/Trevor%20Flowers/Swedish-Blocky-Body/Swedish-Blocky-Body.glb?raw=true
 
+If you'd like to make your own Hubs bodies then check out [this repo from the Hubs team](https://github.com/MozillaReality/hubs-avatar-pipelines) which contains templates for various modeling apps as well as instructions.
+
 The files in this repo directory are free to use under [this license](LICENSE.md). Other directories have their own license files.
